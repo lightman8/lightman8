@@ -11,7 +11,7 @@ Je serais ravi d'échanger avec vous sur tout ce qui concerne la technologie, ou
 
 🛠️**Tech Stack :**
 -**Langages** : HTML, CSS, JavaScript,SQL
--**Frameworks & outils** : Tailwind CSS, React, Flutter
+-**Frameworks & outils** : Tailwind CSS, React
 -**Community Manager** : Apprentit
 -**Base de Données** : PostgreSQL
 -**Versionning** : Git & Github
